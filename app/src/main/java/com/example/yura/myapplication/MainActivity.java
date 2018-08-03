@@ -8,9 +8,7 @@ import android.widget.TextView;
 
 
 public class MainActivity extends AppCompatActivity {
-
-//    String login = "admin.foto";
-//    String pass = "magdj530";
+    
 
 
     @Override

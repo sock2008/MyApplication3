@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
         String login = String  getText(R.id.login);
 
     }
-    public  void s
 
 
 }

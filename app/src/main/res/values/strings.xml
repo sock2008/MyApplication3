@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ping">ping</string>
+    <string name="admin">admin.****</string>
+    <string name="pass">Пароль</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="enter">Войти</string>
+    <string name="admin_">admin.</string>
+    <string name="savepass">Сохранить пароль</string>
+</resources>

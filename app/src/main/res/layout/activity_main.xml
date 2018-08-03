@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/admin"
-        android:inputType="textPersonName"
+        android:inputType="text"
         android:text="@string/admin_" />
 
     <EditText
@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/pass"
-        android:inputType="textPassword"/>
+        android:inputType="text" />
 
     <CheckBox
         android:id="@+id/checkBox"
@@ -43,6 +43,12 @@
         android:layout_marginTop="20dp"
         android:onClick="loginButton"
         android:text="@string/enter" />
+
+    <TextView
+        android:id="@+id/login_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
 
 
 </LinearLayout>

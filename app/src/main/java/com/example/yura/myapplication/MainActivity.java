@@ -26,8 +26,8 @@ public class MainActivity extends AppCompatActivity {
         if((login.equals("admin.foto")) && (pass.equals("magdj530"))){
             logMess(login + pass);
 
-// Запускается AppActivity
-            Intent intent = new Intent(MainActivity.this, AppActivity.class);
+// Запускается AnaliticActivity
+            Intent intent = new Intent(MainActivity.this, AnaliticActivity.class);
             startActivity(intent);}
 
             else {
